@@ -4,7 +4,15 @@ Uma coleção estruturada sobre os principais temas relacionados à Engenharia e
 
 ## 📑 Sumário
 
-- _(em breve)_
+### Git
+
+| Tópico                      | Descrição                                                                                                      |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------- |
+| 📘 **Boas Práticas**        | Diretrizes para escrever commits claros e manter branches organizadas seguindo padrões consistentes.           |
+| 🛠️ **Comandos**             | Comandos essenciais do Git explicados de forma prática, incluindo rebase, fetch vs pull e stash.               |
+| 🔀 **Estratégias de Fluxo** | Abordagens de desenvolvimento como Trunk Based, Git Flow e Feature Branches para organizar o ciclo de entrega. |
+
+🔗 **[Ver Sumário Completo de Git](docs/git/summary.md)**
 
 ## 🤝 Contribuições
 
