@@ -8,6 +8,7 @@
 ## 🛠️ Comandos
 
 - [Git Rebase](comandos/git-rebase.md)
+- [Git Squash](comandos/git-squash.md)
 - [Git Fetch vs Git Pull](comandos/git-fetch-vs-git-pull.md)
 - [Git Stash](comandos/git-stash.md)
 
